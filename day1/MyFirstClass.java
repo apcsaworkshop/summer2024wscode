@@ -1,6 +1,6 @@
 /*
  * My First Class
- * June 3, 2024
+ * June 24, 2024
  * Mrs. Ayodeji 
 */
 public class MyFirstClass
