@@ -1,6 +1,6 @@
 /*
  * Grade 2 (repeatedly)
- * June 4, 2024
+ * June 25, 2024
  * Mrs. Ayodeji 
 */
 import java.util.Scanner;
