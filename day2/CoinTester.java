@@ -1,6 +1,6 @@
 /*
  * Coin Tester
- * June 4, 2024
+ * June 25, 2024
  * Mrs. Ayodeji 
 */
 public class CoinTester
