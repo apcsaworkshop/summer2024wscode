@@ -1,6 +1,6 @@
 /*
- * Fraction class
- * June 5, 2024
+ * Fraction class defition file started: Implement the constructor and methods
+ * July 10, 2024
  * Mrs. Ayodeji 
 */
 
@@ -14,34 +14,36 @@ public class Fraction
 	// Constructors 
 	public Fraction(int num, int denom)
 	{
-
+		// Implement Constructor with two integer parameters
 	}
 
 	public Fraction(int num)
 	{
-
+		// Implement Constructor with only one integer parameter. Hint: Denominator should be set to 1
 	}
 
 	// Accessor Methods
 	public int getNumerator()
 	{
-
+		// Implement method to return expected result
 	}
 
 	public int getDenominator()
 	{
-
+		// Implement method to return expected result
 	}
 
-	public String print()
+	public String toString()
 	{
-
+		// Implement method to return expected result
 	}
 
 	// Other methods
 	public Fraction product(Fraction b)
 	{
-
+		// Implement method to return expected result
+		// Hint 1: Multiplying fractions involves multiplying the numerators to get the new numerator and the same with the denominators
+		// Hint 2: The returned object should be a Fraction 
 
 
 
