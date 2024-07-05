@@ -1,6 +1,6 @@
 /*
- * Grade
- * June 25, 2024
+ * Grade: Based on inputted grade, various states will display
+ * July 9, 2024
  * Mrs. Ayodeji 
 */
 import java.util.Scanner;
