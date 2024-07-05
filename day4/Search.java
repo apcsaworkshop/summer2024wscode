@@ -1,6 +1,6 @@
 /*
- * Search file 
- * June 6, 2024
+ * Search file to test the submission of args when running the file
+ * July 11, 2024
  * Mrs. Ayodeji 
 */
 public class Search
