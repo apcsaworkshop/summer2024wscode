@@ -1,3 +1,8 @@
+/* 
+ * CircleTest tests the constructor and methods from the Circle class file
+ * July 9, 2024
+ * Mrs. Ayodeji
+ */
 public class CircleTest
 {
   public static void main(String[] args)
