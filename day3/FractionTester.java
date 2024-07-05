@@ -26,7 +26,7 @@ public class FractionTester
 		Fraction f2 = new Fraction(num);
 		Fraction f3 = new Fraction(7, 2); // f3 = 7/2
 		Fraction f4 = new Fraction(-4); // f4 = -4/1
-		Fraction f5 = new Fraction();
+		//Fraction f5 = new Fraction();
 
 		// Print fractions example "3/4" 
 		System.out.println( "f1: " + f1.print());
