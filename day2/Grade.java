@@ -1,6 +1,6 @@
 /*
- * Grade
- * June 4, 2024
+ * Grade: based on inputted score, the program will display customized responses
+ * July 9, 2024
  * Mrs. Ayodeji 
 */
 import java.util.Scanner;
