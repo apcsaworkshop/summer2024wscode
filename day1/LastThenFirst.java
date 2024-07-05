@@ -1,6 +1,6 @@
 /*
- * Last Then First Class
- * June 24, 2024
+ * Last Then First Class: prints a name in a specified format (last, then first)
+ * July 5, 2024
  * Mrs. Ayodeji 
 */
 import java.util.Scanner;
