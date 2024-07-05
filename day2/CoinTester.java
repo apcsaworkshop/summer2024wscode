@@ -1,6 +1,6 @@
 /*
- * Coin Tester
- * June 4, 2024
+ * Coin Tester file to test constructor and methods
+ * July 9, 2024
  * Mrs. Ayodeji 
 */
 public class CoinTester
