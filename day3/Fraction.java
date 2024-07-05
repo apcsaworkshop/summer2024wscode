@@ -1,6 +1,6 @@
 /*
- * Fraction class
- * June 5, 2024
+ * Example Fraction class definitionf ile
+ * July 10, 2024
  * Mrs. Ayodeji 
 */
 
