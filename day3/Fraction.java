@@ -42,7 +42,7 @@ public class Fraction
 		return denominator;
 	}
 
-	public String print()
+	public String toString()
 	{
 		String result = numerator + "/" + denominator;
 		return result;
