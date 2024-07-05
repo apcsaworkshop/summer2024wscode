@@ -1,6 +1,6 @@
 /*
  * Primitive Variables: declares and initializes different types of primite variables
- * July 5, 2024
+ * July 8, 2024
  * Mrs. Ayodeji 
 */
 public class PrimitiveVariables
