@@ -1,6 +1,6 @@
 /*
- * Grade 2 (repeatedly)
- * June 25, 2024
+ * Grade 2 (repeatedly): adds repetition to Grade.java file by asking repeating steps until user inputs an invalid score
+ * July 9, 2024
  * Mrs. Ayodeji 
 */
 import java.util.Scanner;
