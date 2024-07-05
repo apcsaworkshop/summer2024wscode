@@ -1,3 +1,8 @@
+/* 
+* Circle class definition file
+* July 9, 2024
+* Mrs. Ayodeji
+*/
 public class Circle
 {
 	private int radius;
