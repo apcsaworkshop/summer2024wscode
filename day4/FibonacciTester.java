@@ -1,6 +1,6 @@
 /*
- * Fibonacci Tester 
- * June 6, 2024
+ * Fibonacci Tester file to test the fib method that returns the nth Fibonacci method
+ * July 11, 2024
  * Mrs. Ayodeji 
 */
 public class FibonacciTester
