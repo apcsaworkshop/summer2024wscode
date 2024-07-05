@@ -1,6 +1,6 @@
 /*
- * My Second Class
- * June 24, 2024
+ * My Second Class: prints out inputted answers
+ * July 5, 2024
  * Mrs. Ayodeji 
 */
 import java.util.Scanner;
