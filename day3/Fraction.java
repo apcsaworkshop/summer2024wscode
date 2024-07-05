@@ -1,5 +1,5 @@
 /*
- * Example Fraction class definitionf ile
+ * Example Fraction class definition file
  * July 10, 2024
  * Mrs. Ayodeji 
 */
