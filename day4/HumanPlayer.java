@@ -1,6 +1,6 @@
 /*
- * Human Player Class 
- * June 6, 2024
+ * Human Player Class Definition file
+ * July 11, 2024
  * Mrs. Ayodeji 
 */
 import java.util.Scanner;
