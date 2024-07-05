@@ -1,6 +1,6 @@
 /*
- * Coin class
- * June 25, 2024
+ * Example Coin class definition file
+ * July 9, 2024
  * Mrs. Ayodeji 
 */
 public class Coin
