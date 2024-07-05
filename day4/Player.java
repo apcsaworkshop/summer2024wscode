@@ -1,6 +1,6 @@
 /*
- * Player Class 
- * June 6, 2024
+ * Player Class Definition File
+ * July 11, 2024
  * Mrs. Ayodeji 
 */
 
