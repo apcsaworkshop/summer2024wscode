@@ -1,6 +1,6 @@
 /*
- * My First Class
- * June 24, 2024
+ * My First Class: a standard Hello, World program
+ * July 5, 2024
  * Mrs. Ayodeji 
 */
 public class MyFirstClass
