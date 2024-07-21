@@ -1,6 +1,6 @@
 /*
  * Fraction class defition file started: Implement the constructor and methods
- * July 10, 2024
+ * July 24, 2024
  * Mrs. Ayodeji 
 */
 

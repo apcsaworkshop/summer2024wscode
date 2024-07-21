@@ -1,6 +1,6 @@
 /*
  * Fraction Tester file to test Fraction constructor and methods
- * July 10, 2024
+ * July 24, 2024
  * Mrs. Ayodeji 
 */
 import java.util.Scanner;

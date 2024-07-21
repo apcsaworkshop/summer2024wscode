@@ -1,6 +1,6 @@
 /*
  * My Full Name Class: prints my full name
- * July 8, 2024
+ * July 22, 2024
  * Mrs. Ayodeji 
 */
 public class MyFullName

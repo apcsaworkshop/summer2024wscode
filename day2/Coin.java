@@ -1,6 +1,6 @@
 /*
  * Example Coin class definition file
- * July 9, 2024
+ * July 23, 2024
  * Mrs. Ayodeji 
 */
 public class Coin
