@@ -1,55 +1,31 @@
-/*
- * Example Coin class definition file
+/* Coin definition class 
  * July 23, 2024
- * Mrs. Ayodeji 
+ * Mrs. Ayodeji
 */
-public class Coin
+public class Coin 
 {
-	// instance variables
-	private double value;
-	private String name;
-	private String metal="silver";
+	// private instance variables
 
-	// Constructor
-	public Coin(double val, String n)
+
+
+	// Constructor(s)
+	// constructor with two parameters
+	public Coin(double val  )
 	{
-		value = Math.abs(val);
-		name = n;
+
 	}
 
-	public Coin(double val, String n, String mtl)
+	// constructor with three parameters
+	public Coin()
 	{
-		value = Math.abs(val);
-		name = n;
-		metal = mtl;
+
 	}
 
-	// Methods i.e. Behaviors
-	// Accessor Methods
-	public double getValue()
-	{
-		return value;
-	}
-
-	public String getName()
-	{
-		return name;
-	}
-
-	public String getMetal()
-	{
-		return metal;
-	}
+	// Access Methods
 
 
-	// Mutator Methods
-	public void setValue(double val)
-	{
-		value = Math.abs(val);
-	}
 
-	public void setName(String n)
-	{
-		name = n;
-	}
+
+
+
 }

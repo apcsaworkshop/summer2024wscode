@@ -14,7 +14,7 @@ public class MySecondClass
       int age = kbIn.nextInt();
       System.out.println("Enter your weight: ");
       double weight = kbIn.nextDouble();
-      System.out.println(age);
+      System.out.println("Your age is "  + age);
       System.out.println(weight);   
    }
 }

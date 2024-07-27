@@ -39,12 +39,14 @@ public class Fraction
 	}
 
 	// Other methods
-	public Fraction product(Fraction b)
+	public Fraction multiply(Fraction otherFraction)
 	{
 		// Implement method to return expected result
 		// Hint 1: Multiplying fractions involves multiplying the numerators to get the new numerator and the same with the denominators
 		// Hint 2: The returned object should be a Fraction 
-
+		int numeratorvalue = numerator * otherFraction.getNumerator();
+		int denominatorvalue = denominator * otherFraction.getDenominator();
+		return new Fraction(  numeratorvalue, denominatorvalue);
 
 
 

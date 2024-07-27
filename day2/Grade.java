@@ -17,6 +17,7 @@ public class Grade
          System.out.println("Invalid");
          return;
       }
+
       if (score >= 70)
       {
          System.out.println("Passed");
@@ -25,6 +26,7 @@ public class Grade
       {
          System.out.println("Failed");
       }
+      
       if (score >= 90)
       {
          System.out.println("A");

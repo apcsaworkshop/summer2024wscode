@@ -24,14 +24,16 @@ public class ComputerPlayer extends Player
 	public int move()
 	{
 		int add_to_location = (int) (20*Math.random()+1);
-		setLocation(super.getLocation() + add_to_location);
-		return super.getLocation();
+		int new_location = super.getLocation() + add_to_location;
+		super.setLocation(new_location);
+		return new_location;
 
 	}
 
 	public String toString()
 	{
-		return "(Computer Player) " + super.getName() + ": location -" + super.getLocation();
+		String result = super.toString();
+		return "(Computer Player) " + result;
 	}
 
 

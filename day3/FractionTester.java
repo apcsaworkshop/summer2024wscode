@@ -36,8 +36,8 @@ public class FractionTester
 
 
 		// Multiply the fractions
-		Fraction product = f1.multiply(f2);
-		System.out.println("f1*f2: " + product.toString());
+		Fraction product = f1.multiply(f3);
+		System.out.println("f1*f3: " + product.toString());
 
 
 
