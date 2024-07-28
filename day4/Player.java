@@ -52,7 +52,7 @@ public class Player
 	}
 	public String toString()
 	{
-		return name + ": location -" + location;
+		return name + ": location - " + location;
 	}
 
 

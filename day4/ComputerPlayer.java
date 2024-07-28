@@ -31,7 +31,8 @@ public class ComputerPlayer extends Player
 
 	public String toString()
 	{
-		return "(Computer Player) " + super.getName() + ": location -" + super.getLocation();
+		// return "(Computer Player) " + super.getName() + ": location -" + super.getLocation();
+		return "(ComputerPlayer) " + super.toString();
 	}
 
 

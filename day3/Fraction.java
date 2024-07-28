@@ -20,8 +20,9 @@ public class Fraction
 		{
 			denominator = denom;
 		}
+		else
 		{
-			denominator = denom;
+			denominator = 1;
 		}
 	}
 
@@ -31,6 +32,12 @@ public class Fraction
 		denominator = 1;
 	}
 
+	public Fraction()
+	{
+		numerator = 0;
+		denominator = 1;
+	}
+	
 	// Accessor Methods
 	public int getNumerator()
 	{
@@ -44,7 +51,8 @@ public class Fraction
 
 	public String toString()
 	{
-		String result = numerator + "/" + denominator;
+		String result = "";
+		result = result + numerator + "/" + denominator;
 		return result;
 	}
 

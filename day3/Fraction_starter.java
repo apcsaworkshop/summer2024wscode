@@ -22,6 +22,10 @@ public class Fraction
 		// Implement Constructor with only one integer parameter. Hint: Denominator should be set to 1
 	}
 
+	public Fraction()
+	{
+		
+	}
 	// Accessor Methods
 	public int getNumerator()
 	{
